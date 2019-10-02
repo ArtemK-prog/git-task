@@ -1,2 +1,1 @@
-# git-task
-Task for study git and github
+# Task for study git and github
