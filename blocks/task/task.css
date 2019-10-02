@@ -1,0 +1,32 @@
+.task {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 80px 20px;
+  margin: 0 auto;
+  font-size: 16px;
+  line-height: 1.5;
+  box-sizing: border-box;
+}
+
+.task__block {
+  width: 100%;
+}
+
+.task a {
+  color: #ffffff;
+}
+
+.task__img {
+  max-width: 100%;
+  margin: 0 0 24px;
+}
+
+.task__title {
+  margin: 0 0 24px;
+}
+
+.task__text {
+  margin: 0 0 24px;
+}
